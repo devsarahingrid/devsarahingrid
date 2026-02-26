@@ -1,42 +1,39 @@
 <div align="center">
 
-<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.15-HFhN885MquPvRm14o0lsWMSiVY51ra.jpeg" width="120" alt="Espeon"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B21A8&height=160&section=header&text=Sarah%20Ingrid%20Fernandes%20Alves&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
 
-# Sarah Ingrid Fernandes Alves
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.15-HFhN885MquPvRm14o0lsWMSiVY51ra.jpeg" width="120"/>
 
-Frontend Developer focused on building accessible, performant and well-structured interfaces.
+### Frontend Developer • React • Next.js • TypeScript
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Accessibility+Focused;UX+Driven+Development" alt="Typing SVG" />
+Interfaces acessíveis, performáticas e bem estruturadas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21A8?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU-EMAIL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sarah-ingrid-fernandes-alves-846bb425b)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEUEMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-6B21A8?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/devsarahingrid)
 
 </div>
 
 ---
 
-<img align="right" src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14-ETmHEVhal33RVYfnXfhewVM1psXG1F.jpeg" width="100" alt="Gengar"/>
+<img align="right" src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14-ETmHEVhal33RVYfnXfhewVM1psXG1F.jpeg" width="100"/>
 
 ## Sobre mim
 
 ```yaml
 name: Sarah Ingrid Fernandes Alves
 role: Frontend Developer
-location: Brazil
-focus: Accessibility, UX and maintainable interfaces
-mindset: Continuous learning and improvement
+focus: Accessibility, UX, component architecture
+learning: Sempre evoluindo e explorando novas soluções
 ```
 
-Sou desenvolvedora frontend apaixonada por criar interfaces claras, acessíveis e eficientes.
-Gosto de trabalhar com organização de componentes, consistência visual e experiência do usuário como prioridade.
+Desenvolvedora frontend focada em criar interfaces claras, acessíveis e eficientes.
+Gosto de estruturar componentes reutilizáveis, manter consistência visual e garantir boa experiência ao usuário.
 
-Principais focos:
-
-* Interfaces acessíveis desde a concepção
+* Interfaces acessíveis desde o início
 * Código limpo e reutilizável
-* Performance e organização de projeto
-* Evolução constante em arquitetura frontend
+* Organização e performance
+* Evolução contínua em arquitetura frontend
 
 <br clear="right"/>
 
@@ -44,7 +41,7 @@ Principais focos:
 
 ## Tech Stack
 
-<img align="left" src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14%20%283%29-K9GsUZ0HWpcAnv6YZURUgLUcgYjwaE.jpeg" width="100" alt="Charizard"/>
+<img align="left" src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14%20%283%29-K9GsUZ0HWpcAnv6YZURUgLUcgYjwaE.jpeg" width="100"/>
 
 <div align="center">
 
@@ -68,9 +65,9 @@ Principais focos:
 
 <div align="center">
 
-<img align="center" src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.13-HpN6N4gXwLh2olA6fqogzEK9N5EgIW.jpeg" width="80" alt="Mew"/>
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.13-HpN6N4gXwLh2olA6fqogzEK9N5EgIW.jpeg" width="80"/>
 
-<br/><br/>
+<br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsarahingrid&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0533"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsarahingrid&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=1a0533"/>
@@ -83,35 +80,63 @@ Principais focos:
 
 ---
 
-## Contribuições
+## Pokedex de Habilidades
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsarahingrid&theme=midnight-purple&hide_border=true&bg_color=1a0533&color=C084FC&line=A855F7&point=E9D5FF" width="100%"/>
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.15-HFhN885MquPvRm14o0lsWMSiVY51ra.jpeg" width="60"/><br/>
+<b>React</b><br/>
+<sub>Psychic-type</sub>
+</td>
+<td align="center" width="120">
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14%20%283%29-K9GsUZ0HWpcAnv6YZURUgLUcgYjwaE.jpeg" width="60"/><br/>
+<b>Next.js</b><br/>
+<sub>Fire-type</sub>
+</td>
+<td align="center" width="120">
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14%20%284%29-GvdCCdrjLkpueWrLW4Y4wYUkKCs4ps.jpeg" width="60"/><br/>
+<b>TypeScript</b><br/>
+<sub>Fighting-type</sub>
+</td>
+<td align="center" width="120">
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14-ETmHEVhal33RVYfnXfhewVM1psXG1F.jpeg" width="60"/><br/>
+<b>TailwindCSS</b><br/>
+<sub>Ghost-type</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.13-HpN6N4gXwLh2olA6fqogzEK9N5EgIW.jpeg" width="60"/><br/>
+<b>JavaScript</b><br/>
+<sub>Psychic-type</sub>
+</td>
+<td align="center" width="120">
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14%20%281%29-KRWhAQCCmfCIohR4RXDgOLMLvcqu8m.jpeg" width="60"/><br/>
+<b>HTML/CSS</b><br/>
+<sub>Grass-type</sub>
+</td>
+<td align="center" width="120">
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14%20%282%29-fQa3sJdgvhjVpPpJerSJfzPmfNBbaA.jpeg" width="60"/><br/>
+<b>Git</b><br/>
+<sub>Water-type</sub>
+</td>
+<td align="center" width="120">
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.15-HFhN885MquPvRm14o0lsWMSiVY51ra.jpeg" width="60"/><br/>
+<b>Figma</b><br/>
+<sub>Psychic-type</sub>
+</td>
+</tr>
+</table>
 
-<img align="right" src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14%20%284%29-GvdCCdrjLkpueWrLW4Y4wYUkKCs4ps.jpeg" width="100" alt="Lucario"/>
-
-## Perfil Dev
-
-```javascript
-const sarah = {
-  role: "Frontend Developer",
-  stack: ["TypeScript", "React", "Next.js"],
-  focus: ["Accessibility", "UX", "Component Architecture"],
-  workflow: ["Plan", "Design", "Build", "Refine"],
-  mindset: "Build with intention, improve continuously"
-};
-```
-
-<br clear="right"/>
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=devsarahingrid\&color=A855F7\&style=flat-square)
-
-Gosto de trocar ideias com outros devs, designers e pessoas que constroem coisas legais.
-Se quiser conversar ou colaborar, é só chamar.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B21A8&height=120&section=footer"/>
 
 </div>
