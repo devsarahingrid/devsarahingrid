@@ -24,7 +24,7 @@
   <tr><td><img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14-ETmHEVhal33RVYfnXfhewVM1psXG1F.jpeg" width="100" alt="Gengar"/></td></tr>
 </table>
 
-### :ghost: Sobre mim
+###  Sobre mim
 
 ```yaml
 name: Sarah Ingrid Fernandes Alves
@@ -34,11 +34,11 @@ currently_learning: "Sempre evoluindo!"
 fun_fact: "I choose you, Espeon!"
 ```
 
-- :woman_technologist: **Frontend Developer** apaixonada por criar interfaces incriveis
-- :video_game: **Gamer** nas horas vagas - RPGs, estrategia e muito mais
-- :cat: **Cat Mom** - gatos sao a melhor companhia para codar
-- :sparkles: Focada em **UX** e **codigo limpo**
-- :seedling: Sempre aprendendo e evoluindo
+- **Frontend Developer** apaixonada por criar interfaces incriveis
+- **Gamer** nas horas vagas - RPGs, estrategia e muito mais
+- **Cat Mom** - gatos sao a melhor companhia para codar
+- Focada em **UX** e **codigo limpo**
+- Sempre aprendendo e evoluindo
 
 <br clear="all"/>
 
@@ -50,7 +50,7 @@ fun_fact: "I choose you, Espeon!"
   <tr><td><img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14%20%283%29-K9GsUZ0HWpcAnv6YZURUgLUcgYjwaE.jpeg" width="100" alt="Charizard"/></td></tr>
 </table>
 
-### :fire: Tech Stack
+### Tech Stack
 
 ![React](https://img.shields.io/badge/React-6d28d9?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-7c3aed?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -67,7 +67,7 @@ fun_fact: "I choose you, Espeon!"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&section=header"/>
 
-### :star2: Pokedex de Habilidades
+### Pokedex de Habilidades
 
 <div align="center">
 
@@ -79,7 +79,7 @@ fun_fact: "I choose you, Espeon!"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&section=header"/>
 
-### :bar_chart: GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.13-HpN6N4gXwLh2olA6fqogzEK9N5EgIW.jpeg" width="70" alt="Mew"/>
@@ -92,7 +92,7 @@ fun_fact: "I choose you, Espeon!"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&section=header"/>
 
-### :chart_with_upwards_trend: Contribuicoes
+###  Contribuicoes
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsarahingrid&theme=react-dark&hide_border=true&bg_color=0d1117&color=c084fc&line=7c3aed&point=a855f7&area_color=6d28d9&area=true" width="100%"/>
 
@@ -104,7 +104,7 @@ fun_fact: "I choose you, Espeon!"
   <tr><td><img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-02-26%20at%2009.49.14%20%284%29-GvdCCdrjLkpueWrLW4Y4wYUkKCs4ps.jpeg" width="100" alt="Lucario"/></td></tr>
 </table>
 
-### :joystick: Fun Facts
+###  Fun Facts
 
 ```javascript
 const sarah = {
