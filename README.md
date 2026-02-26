@@ -26,11 +26,11 @@ currently_learning: "Sempre evoluindo!"
 fun_fact: "I choose you, Espeon!"
 ```
 
-- :woman_technologist: **Frontend Developer** apaixonada por criar interfaces incriveis
-- :video_game: **Gamer** nas horas vagas - RPGs, estrategia e muito mais
-- :cat: **Cat Mom** - gatos sao a melhor companhia para codar
-- :sparkles: Focada em **UX** e **codigo limpo**
-- :seedling: Sempre aprendendo e evoluindo
+- **Frontend Developer** apaixonada por criar interfaces incriveis
+- **Gamer** nas horas vagas - RPGs, estrategia e muito mais
+- **Cat Mom** - gatos sao a melhor companhia para codar
+- Focada em **UX** e **codigo limpo**
+- Sempre aprendendo e evoluindo
 
 <br clear="right"/>
 
